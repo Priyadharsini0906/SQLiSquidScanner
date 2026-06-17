@@ -8,7 +8,7 @@ Inspired by Squid Game aesthetics — this tool scans, injects, and exposes vuln
 - 🔍 **URL Crawler**: Automatically discovers forms across multiple linked pages.  
 - 🧠 **SQL Injection Detection**: Tests common payloads and flags vulnerable URLs.  
 - 📁 **PDF Report Export**: Save scan results neatly to PDF.  
-- 🎨 **Dark/Light Mode UI** with gradient animations.  
+- 🎨 **Dark Mode UI**  
 - 🐍 **sqlmap Integration**: Launches `sqlmap.py` with target URLs to extract DB details.  
 - 💾 **Load Custom Payloads**: Use your own `.txt` file for injection strings.  
 
@@ -16,7 +16,10 @@ Inspired by Squid Game aesthetics — this tool scans, injects, and exposes vuln
 
 ## 📷 Preview
 
-<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/7aabe8c8-01a7-4929-ae19-51d74467a0df" />
+<img width="1915" height="1079" alt="Screenshot 2026-06-17 131228" src="https://github.com/user-attachments/assets/f0503fb6-24ee-45d5-8af2-92ff671514a1" />
+<br><br>
+<img width="1906" height="995" alt="Screenshot 2026-06-17 131311" src="https://github.com/user-attachments/assets/6f3dac8f-b39e-4c0e-8b11-fe1c2ddd6375" />
+
 
 
 
